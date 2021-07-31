@@ -1,14 +1,15 @@
-LineageOS
+LOSPlus
 ===========
 
 Getting started
 ---------------
+LOSPlus is a fork from LineageOS for Chiniese Android users, LOSPlus meas LineageOS Plus and also stands for “LOSPlus Open Source Project”.
 
-To get started with Android/LineageOS, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
+To get started with Android/LOSPlus, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 ```
-repo init -u git://github.com/LineageOS/android.git -b lineage-18.1
+repo init -u git://github.com/losp/android.git -b lineage-18.1
 ```
 Then to sync up:
 ```
